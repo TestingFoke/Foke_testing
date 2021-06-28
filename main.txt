@@ -1,6 +1,2 @@
 This to check for the foke command is working
 
-
-
-In the main project
-
